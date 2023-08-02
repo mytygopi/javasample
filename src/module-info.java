@@ -5,5 +5,5 @@
  * @author DELL
  *
  */
-module EducationInformation {
+module EducationInformation {Engineering
 }
